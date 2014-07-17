@@ -2,4 +2,4 @@
 apple
 banana
 strawberry
-pear
+orange
